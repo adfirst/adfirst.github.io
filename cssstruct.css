@@ -1,0 +1,22 @@
+BODY{
+    background: blue;
+    color: white;
+    text-align: center;
+}
+H1{font-family: ubuntu;
+   Text-align: center;
+   }
+P{font-family: ubuntu-mono;}
+A{Text-decoration: none;
+color: black;
+}
+A:hover{background: black;
+        color:blue}
+BUTTON{
+  color: white;
+  border-radius: 7px;
+  size: 20px
+  }
+  
+    
+    
